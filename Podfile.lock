@@ -1,0 +1,26 @@
+PODS:
+  - CollectionKit (2.2.0):
+    - CollectionKit/Core (= 2.2.0)
+  - CollectionKit/Core (2.2.0)
+  - MerchantKit (0.8.1)
+  - TinyConstraints (3.3.1)
+
+DEPENDENCIES:
+  - CollectionKit (~> 2.2.0)
+  - MerchantKit (~> 0.8.1)
+  - TinyConstraints (~> 3.3.0)
+
+SPEC REPOS:
+  trunk:
+    - CollectionKit
+    - MerchantKit
+    - TinyConstraints
+
+SPEC CHECKSUMS:
+  CollectionKit: 5caa5341860d4c9b748ebfeaab97530b2d02c7c0
+  MerchantKit: 959448040fede1662a16109f3b548441a5269947
+  TinyConstraints: dbf7519aefc01ea59d62244300c7718aec68e280
+
+PODFILE CHECKSUM: 3ce95ec5bf6e430d973194b4d0c5edf4392d8417
+
+COCOAPODS: 1.9.1
